@@ -1,0 +1,20 @@
+?Milestones Week 1:
+
+Issue 1:  Natalia should fix that issue with the blog page showing a strange error. –I just fixed the error.
+Issue 2: Natalia should be done making the programs tab—All done
+Issue 3: Daelyn should make website viewable on pythonanywhere
+Issue 4: Daelyn should research css with python on how to use images and tables 
+
+Milestones Week 2:
+
+Issue 1:  Natalia should be halfway done with adding professors to the site
+Issue 2: Daelyn should learn more about using the shell to create  blog posts 
+
+
+Milestones Week 3:
+
+Issue 1: Natalia should finish adding professors to the site
+Issue 2: Daelyn will test the website for bugs and add finishing touches
+Issue 3: Daelyn and Natalia will compare and contrast python and PHP
+
+Don't forget to add this to Github.
