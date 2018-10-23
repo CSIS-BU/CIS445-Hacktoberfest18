@@ -1,0 +1,15 @@
+Milestone Week 1:
+
+M1: Download Android Studio, get it set up
+M2: Run Sample Code, make sure it works
+M3: Get familiar with Kotlin
+
+Milestones Week 2:
+
+M1: Start writing simple Mobile APP Program
+M2: Get close to completion, talk about issues with Team
+
+Milestones Week 3:
+
+M1: Finish Apps, run, compare
+M2: Write final observations in report
