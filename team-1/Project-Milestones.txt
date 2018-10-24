@@ -9,4 +9,4 @@
 	* Issue 1: Alter bot to handle invalid input more elegantly
 	* Issue 2: Enhance security (ex: Store keys in environment variables rather than plain text and encrypt long-term data storage)
 	* Issue 3: Minimize Twitter API queries (ex: Minimize follow requests)
-	* Issue 4: Optimize internal logic
+	* Issue 4: Optimize internal logic :)
