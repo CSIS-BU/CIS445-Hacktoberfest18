@@ -1,11 +1,13 @@
 # Milestone Week 1
     * Issue 1: Create milestones and plan ahead for the next 3 weeks
-    * Issue 2: Create or find a CSV file for analyzing
-    * Issue 3: Analyze and map data
+    * Issue 2: Create or find a CSV file with suitable data for analyzing
+    * Issue 3: Practice with Tigris Functionalities
+    * Issue 4: Find a map package similar to Tigris for Python
+    * Issue 5: Analyze and map data
 # Milestone Week 2
     * Issue 1: Program simulations in R
     * Issue 2: Program simulations in Python
 # Milestone Week 3
     * Issue 1: If needed, continue to work on simulations
     * Issue 2: Debug simulations
-    * Issue 3: Create presentation in PowerPoint or .md file, and finalize 	                    deliverables
+    * Issue 3: Create presentation in PowerPoint or .md file, and finalize deliverables
