@@ -1,12 +1,12 @@
 # Milestone Week 1
-    * Issue 1:
-    * Issue 2:
-    * Issue 3:
+    * Issue 1: Research
+    * Issue 2: Further pursue efficency, performance, etc, within languages
+    * Issue 3: Finalize firect of project going forward
 # Milestone Week 2
-    * Issue 1:
-    * Issue 2:
-    * Issue 3:
+    * Issue 1: Research more about each language, particularly pricing and efficency.
+    * Issue 2: Create or find code as examples for our claims
+    * Issue 3: Write additional code to test efficency
 # Milestone Week 3
-    * Issue 1:
-    * Issue 2:
-    * Issue 3:
+    * Issue 1: Tie up loose ends about the interworkings of both languages
+    * Issue 2: Use tools to analyze written code
+    * Issue 3: Produce findings, create finalized powerpoint.
