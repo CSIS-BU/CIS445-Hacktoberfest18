@@ -1,0 +1,14 @@
+* Milestone Week 1
+    * Issue 1:Add in the Astros
+    * Issue 2:Add in the Indians
+    * Issue 3:Add in the Red Sox
+    * Issue 4:Add in the Yankees
+* Milestone Week 2
+    * Issue 1:Add in the standings for all games that have taken place in the post season so far
+    * Issue 2:Add in placeholders for the games that will take place
+* Milestone Week 3
+    * Issue 1:Create a second collection for teams
+    * Issue 2:Add in a bio and stats for the Astros
+    * Issue 3:Add in a bio and stats for the Indians
+    * Issue 4:Add in a bio and stats for the Red Sox
+    * Issue 5:Add in a bio and stats for the Yankees

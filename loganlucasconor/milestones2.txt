@@ -1,11 +1,14 @@
 Milestone 1: Learn how to use python libraries (complete by Friday 10/26 at 11:55 P.M)
+
 	- Issue 1: Write a program using library 1 (whatever we decide that to be)
 	- Issue 2: Write a program using library 2 (whatever we decide that to be)
 
 Milestone 2: Learn basics of TensorFlow (complete by Friday 11/02 at 11:55 P.M)
+
 	- Issue 1: Write paper about TensorFlow (about 5 pages in length)
 	- Issue 2: Submit code for basic TensorFlow program
 
 Milestone 3: Learn more about AI in general (complete by Friday 11/09 at 11:55 P.M)
+
 	- Issue 1: Write paper about deep learning and neural networks
 	- Issue 2: Write paper about future of AI.
